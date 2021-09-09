@@ -7,5 +7,4 @@ public class Person {
     private Integer age;
     private Integer one;
     private Integer two;
-    private Integer three;
 }
