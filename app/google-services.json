@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "656839827625",
+    "firebase_url": "https://movecontactstennumber.firebaseio.com",
+    "project_id": "movecontactstennumber",
+    "storage_bucket": "movecontactstennumber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656839827625:android:baa86ca2b6a513e1",
+        "android_client_info": {
+          "package_name": "com.nld.movecontactstennumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656839827625-buqdod85b899ddvq0ql76a76da3nvuvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nld.movecontactstennumber",
+            "certificate_hash": "e37fa2695bc6491941d18bf4dbef77a9dff66424"
+          }
+        },
+        {
+          "client_id": "656839827625-8ekn2kfq2guqgro4239dupn0nb07u8ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJW3ODv7x2wnKAdA33vEOFaPEgR5z-uYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656839827625-8ekn2kfq2guqgro4239dupn0nb07u8ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
