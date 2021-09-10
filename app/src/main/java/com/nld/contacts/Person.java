@@ -10,5 +10,5 @@ public class Person {
     private Integer three;
     private Integer four;
     private Integer six;
-
+    private Integer seven;
 }
