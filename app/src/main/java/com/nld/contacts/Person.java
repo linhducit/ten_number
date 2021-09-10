@@ -9,5 +9,6 @@ public class Person {
     private Integer two;
     private Integer three;
     private Integer four;
+    private Integer six;
 
 }
