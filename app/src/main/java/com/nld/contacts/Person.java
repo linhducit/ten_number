@@ -8,5 +8,4 @@ public class Person {
     private Integer one;
     private Integer two;
     private Integer three;
-    private Integer five;
 }
